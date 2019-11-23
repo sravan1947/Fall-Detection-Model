@@ -13,3 +13,5 @@ The model can be worn by senior citizens in the form of watch or any other small
   4.Sklearn
 # Dataset
 The data set we provided is in the form of time series data.
+
+To know every thing about the model please download the ppt provided in the files.
