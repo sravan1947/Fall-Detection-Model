@@ -10,7 +10,7 @@ The model can be worn by senior citizens in the form of watch or any other small
   1.Tensorflow
   2.Pandas
   3.Numpy
-  4.Sklearn
+   4.Sklearn
 # Dataset
 The data set we provided is in the form of time series data.
 
