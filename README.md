@@ -2,7 +2,7 @@
 
 # Fall-Detection-Model Based on Deep-Learning and Internet Of Things.
 The model detects the fall of an elderly person based on their body vibrations and angles. 
-To get the body vibration and angles, here we are using two sensors accelometer and gyroscope.
+To get the body vibration and angles, here we are using two sensors accelerometer and gyroscope.
 These values are given to Multilayer Lstm model,which classifies the data produced by sensors as 0's and 1's. 
  0 indicates not fallen.
  1 indicates fallen.
